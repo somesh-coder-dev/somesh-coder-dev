@@ -1,5 +1,51 @@
-# 💫 About Me:
-💙 About Me:<br>🎓 I'm a final-year BCA (Bachelor of Computer Applications) student with a strong passion for technology, coding, and building real-world applications.<br><br>💻 Currently working on:<br><br>Academic projects involving web development and software design<br><br>Personal projects to strengthen my GitHub portfolio<br><br>🤝 Looking to collaborate on:<br><br>Open-source projects<br><br>Beginner-friendly repositories<br><br>College-level tech initiatives<br><br>🔍 Looking for help with:<br><br>Learning best practices in software development<br><br>Finding internship opportunities in tech<br><br>Improving my GitHub presence and contributions<br><br>🚀 Currently learning:<br><br>Full-stack web development (HTML, CSS, JavaScript, React, Node.js)<br><br>Programming in Python and Java<br><br>Database systems and basic cloud computing<br><br>💬 Ask me about:<br><br>My BCA journey<br><br>Projects I've worked on<br><br>What I'm currently building<br><br>🎉 Fun fact:<br>I started coding without any background in tech — and now I can’t imagine doing anything else!<br><br>📬 Let's connect!<br>• Email me
+# 💙 About Me
+
+🎓 I'm a final-year **BCA (Bachelor of Computer Applications)** student with a strong passion for technology, coding, and building real-world applications.
+
+---
+
+## 💻 Currently Working On
+- Academic projects involving **web development** and **software design**
+- Personal projects to strengthen my **GitHub portfolio**
+
+---
+
+## 🤝 Looking to Collaborate On
+- **Open-source projects**
+- **Beginner-friendly repositories**
+- **College-level tech initiatives**
+
+---
+
+## 🔍 Looking for Help With
+- Learning **best practices** in software development
+- Finding **internship opportunities** in tech
+- Improving my **GitHub presence** and contributions
+
+---
+
+## 🚀 Currently Learning
+- **Full-stack web development** (HTML, CSS, JavaScript, React, Node.js)
+- Programming in **Python** and **Java**
+- **Database systems** and **basic cloud computing**
+
+---
+
+## 💬 Ask Me About
+- My **BCA journey**
+- Projects I've worked on
+- What I'm currently building
+
+---
+
+## 🎉 Fun Fact
+I started coding without any background in tech — and now I can’t imagine doing anything else!
+
+---
+
+## 📬 Let's Connect!
+- 📧 [Email me](mailto:your@email.com)
+
 
 
 ## 🌐 Socials:
