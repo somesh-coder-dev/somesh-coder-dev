@@ -35,6 +35,8 @@
 - My **BCA journey**
 - Projects I've worked on
 - What I'm currently building
+- JavaScript, React, Nextjs, Node.js, and any general software development questions.
+
 
 ---
 
