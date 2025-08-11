@@ -2,50 +2,48 @@
 
 🎓 I'm a final-year **BCA (Bachelor of Computer Applications)** student with a strong passion for technology, coding, and building real-world applications.
 
----
 
-## 💻 Currently Working On
+### 💻 Currently Working On
 - Academic projects involving **web development** and **software design**
 - Personal projects to strengthen my **GitHub portfolio**
 
----
 
-## 🤝 Looking to Collaborate On
+### 🤝 Looking to Collaborate On
 - **Open-source projects**
 - **Beginner-friendly repositories**
 - **College-level tech initiatives**
 
----
 
-## 🔍 Looking for Help With
+
+### 🔍 Looking for Help With
 - Learning **best practices** in software development
 - Finding **internship opportunities** in tech
 - Improving my **GitHub presence** and contributions
 
----
 
-## 🚀 Currently Learning
+
+### 🚀 Currently Learning
 - **Full-stack web development** (HTML, CSS, JavaScript, React, Node.js)
 - Programming in **Python** and **Java**
 - **Database systems** and **basic cloud computing**
 
----
 
-## 💬 Ask Me About
+
+### 💬 Ask Me About
 - My **BCA journey**
 - Projects I've worked on
 - What I'm currently building
 - JavaScript, React, Nextjs, Node.js, and any general software development questions.
 
 
----
 
-## 🎉 Fun Fact
+
+#### 🎉 Fun Fact
 I started coding without any background in tech — and now I can’t imagine doing anything else!
 
 ---
 
-## 📬 Let's Connect!
+#### 📬 Let's Connect!
 - 📧 [Email me](mailto:your@email.com)
 
 
