@@ -11,7 +11,7 @@
 
 # 💙 About Me
 
-🎓 I'm a final-year **BCA (Bachelor of Computer Applications)** student with a strong passion for technology, coding, and building real-world applications.
+🎓 I'm a **BCA (Bachelor of Computer Applications)** student with a strong passion for technology, coding, and building real-world applications.
 
 
 ### 💻 Currently Working On
