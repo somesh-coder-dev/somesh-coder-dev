@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Somesh Mishra</h1>
+<h3 align="center">BCA Final Year Student | Aspiring Full-Stack Developer</h3>
+
+<p align="center">
+<a href="mailto:someshaglory@gmail.com">
+<img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail">
+</a>
+</p>
+
+---
+
 # 💙 About Me
 
 🎓 I'm a final-year **BCA (Bachelor of Computer Applications)** student with a strong passion for technology, coding, and building real-world applications.
