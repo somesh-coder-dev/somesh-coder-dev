@@ -75,7 +75,7 @@ I started coding without any background in tech — and now I can’t imagine do
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=somesh-coder-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=iamsomeshmishra &limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
