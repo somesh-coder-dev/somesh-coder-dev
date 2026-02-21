@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somesh Mishra</h1>
-<h3 align="center">BCA Final Year Student | Aspiring Full-Stack Developer</h3>
+<h3 align="center">BCA Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
 <a href="mailto:someshaglory@gmail.com">
